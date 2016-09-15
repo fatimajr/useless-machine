@@ -1,0 +1,31 @@
+.body{
+	box-sizing: border-box;
+}
+.caja, .info{
+	height: 150px;
+	width: 600px;
+	align-content: center;
+	padding-left: 400px;
+	padding-top: 40px;
+}
+#color1, #color2, #color3 {
+	border-radius: 60px;
+	height: 120px;
+	width: 120px;
+	color: white;
+	font-family: sans-serif;
+	float: left;
+	margin-left: 50px;
+}
+#color1{
+	background-color: blue;
+}
+#color2{
+	background-color: red;
+}
+#color3{
+	background-color: yellow;
+}
+.border-blue{
+	border: 3px solid black;
+}
