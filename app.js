@@ -20,7 +20,7 @@ window.addEventListener("load", function() {
 		contador ++;
 	});
 });
-	window.addEventListener("load", function() {
+window.addEventListener("load", function() {
 	var boton = document.getElementById("supercri");
 	boton.addEventListener("click", function() {
 		var color = document.getElementById("inputcolor").value;
